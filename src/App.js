@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          NEXO THUNDER MAKAKO
+          NEXO THUNDER MAKAKO LOCO
         </a>
       </header>
     </div>
