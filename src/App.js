@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          NEXO THUNDER DALEEEE GATO MATO
+          NEXO THUNDER DALEEEE GATO MATOS
         </a>
       </header>
     </div>
