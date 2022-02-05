@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         THUNDERNIZE WEB
+         THUNDERNIZE WEB THUNDER
         </a>
       </header>
     </div>
