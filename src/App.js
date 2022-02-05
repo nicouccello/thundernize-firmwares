@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          NEXO THUNDER 100002
+          NEXO THUNDER 100002555
         </a>
       </header>
     </div>
